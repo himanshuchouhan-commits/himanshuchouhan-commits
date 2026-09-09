@@ -1,4 +1,4 @@
- # 💫 About Me:
+ 
 🔭 I’m currently working on<br>AI & Data Science projects and full-stack web applications<br><br>👯 I’m looking to collaborate on<br>AI, Data Science and Full-Stack Development projects<br><br>🤝 I’m looking for help with<br>Building real-world projects and improving my coding skills<br><br>🌱 I’m currently learning<br>Python, SQL, Data Structures & Algorithms and AI/ML<br><br>💬 Ask me about<br>AI & Data Science, Web Development, Projects and Technology<br><br>⚡ Fun fact<br>I enjoy turning ideas into practical projects and learning new technologies.
 
 
