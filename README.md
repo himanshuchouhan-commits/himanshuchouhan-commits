@@ -1,6 +1,6 @@
- 
-🔭 I’m currently working on<br>AI & Data Science projects and full-stack web applications<br><br>👯 I’m looking to collaborate on<br>AI, Data Science and Full-Stack Development projects<br><br>🤝 I’m looking for help with<br>Building real-world projects and improving my coding skills<br><br>🌱 I’m currently learning<br>Python, SQL, Data Structures & Algorithms and AI/ML<br><br>💬 Ask me about<br>AI & Data Science, Web Development, Projects and Technology<br><br>⚡ Fun fact<br>I enjoy turning ideas into practical projects and learning new technologies.
-
+<p>
+  I’m a curious <strong>AI & Data Science student</strong> passionate about turning ideas into meaningful, real-world technology. I enjoy exploring <strong>AI, data, and full-stack development</strong>, while continuously improving my problem-solving and coding skills. I believe in <strong>learning by building</strong>, experimenting with new technologies, and growing through every challenge.
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@himanshu.chouhannn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Himanshu Chouhan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/himanshuchouhan7002) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Himanshu Chouhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshuchouhan7002@gmail.com) 
